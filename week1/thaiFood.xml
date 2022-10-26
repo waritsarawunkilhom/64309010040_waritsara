@@ -2,7 +2,79 @@
     <thaiFood>
          <FoodID>001</Food>
          <FoodName>ข้าวผัดอเมริกัน</FoodName>
-         <price>100 บาท </price>
+         <price>จานละ 100 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>002</Food>
+         <FoodName>ข้าวผัดปู</FoodName>
+         <price>จานละ 50 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>003</Food>
+         <FoodName>สปาเก็ตตี้ คาโบน่าร่า</FoodName>
+         <price>จานละ 96บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>004</Food>
+         <FoodName>ไส้กรอก รมควัน</FoodName>
+         <price>ชิ้นละ 25 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>005</Food>
+         <FoodName>นักเก็ต</FoodName>
+         <price>ชิ้นละ 5 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>006</Food>
+         <FoodName>ส้มตำปูปลาร้า</FoodName>
+         <price>จานละ 40 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>007</Food>
+         <FoodName>ข้าวเหนียว</FoodName>
+         <price>ห่อละ 5 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>008</Food>
+         <FoodName>ไก่ย่าง</FoodName>
+         <price>ชิ้นละ 25 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>009</Food>
+         <FoodName>ลาบหมู</FoodName>
+         <price>จานละ 60 บาท </price>
+    </thaiFood>
+
+</Food>
+<Food>
+    <thaiFood>
+         <FoodID>010</Food>
+         <FoodName>น้ำตกหมุ</FoodName>
+         <price>จานละ 65 บาท </price>
     </thaiFood>
 
 </Food>
